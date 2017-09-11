@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Loan Calculator</string>
+    <string name="loan">Loan Amount</string>
+    <string name="year">Term of Loan (years)</string>
+    <string name="rate">Yearly Interest Rate</string>
+    <string name="loanHint">50000</string>
+    <string name="yearHint">7</string>
+    <string name="rateHint">7.5</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="result">Results</string>
+    <string name="monthlyLabel">Monthly Payment</string>
+    <string name="totalPaymentLabel">Total Payment</string>
+    <string name="totalInterestLabel">Total Interest</string>
+    <string name="errorMsg">You forgot to enter a number in one of the fields</string>
+    <string name="empty"></string>
+</resources>
